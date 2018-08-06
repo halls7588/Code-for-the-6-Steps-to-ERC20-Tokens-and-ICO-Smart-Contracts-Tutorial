@@ -1,9 +1,5 @@
 pragma solidity ^0.4.23;
 
-/**
- * @title SafeMath
- * @dev Math operations with safety checks that throw on error
- */
 library SafeMath {
     /**
      * @dev Multiplies two numbers, throws on overflow.
@@ -22,6 +18,10 @@ library SafeMath {
      **/
     function div(uint256 a, uint256 b) internal pure returns (uint256) {
         // assert(b > 0); // Solidity automatically throws when dividing by 0
+/**
+ * @title SafeMath
+ * @dev Math operations with safety checks that throw on error
+ */
         // uint256 c = a / b;
         // assert(a == b * c + a % b); // There is no case in which this doesn't hold
         return a / b;
@@ -338,7 +338,7 @@ contract CrowdsaleToken is StandardToken, Configurable, Ownable {
 
 /**
  * @title LavevelToken 
- * @dev Contract to create the Kimera Token
+ * @dev Contract to create the Lavevel Token
  **/
 contract LavevelToken is CrowdsaleToken {
     string public constant name = "Lavavel";
