@@ -15,7 +15,8 @@ This code does not allow for discounts or bonuses, but any half competent develo
 
 ### Prerequisites
 
-Understanding of Solidity or proficient with a language like JavaScript, Swift, Java etc. Or just follow along with my tutoral at
+Understanding of Solidity or proficient with a language like JavaScript, Swift, Java etc. Or just follow along with my tutoral at:
+
 [6 Steps to ERC20 Tokens and ICO Smart Contracts Tutorial Code](Example.com)
 
 #### Note: The above link does not work yet as the tutorial has not been posted yet. I will update it once it is finished. Im adding the placeholder here for easier updating latter on once the tutorial is finished. 
@@ -38,7 +39,7 @@ Nothing in place. Feel free to message me if you want to contribute. [email](mai
 If you find a bug or issue in the code, Please feel free to raise an Issue and i will get to it in a timely manner. No spacific template is required, please be as detailed as possible as it will make tracking the issue down that much easier. [Raise an Issue](https://github.com/halls7588/Code-for-the-6-Steps-to-ERC20-Tokens-and-ICO-Smart-Contracts-Tutorial/issues)
 
 ## Additional Help or General Quiestions
-Feel free to message me here for questions or help with the token. Also aviailable for some contracting or ICO advisor work IF I believe in your idea/product. In that case i prefer you contact me through my [Linkedin](https://www.linkedin.com/in/stephen-hall-3749b062/)
+Feel free to message me here for questions or help with the token. Also aviailable for some contracting or ICO Technical advisor work IF I believe in your idea/product. In that case i prefer you contact me through my [Linkedin](https://www.linkedin.com/in/stephen-hall-3749b062/)
 
 ## Authors
 
