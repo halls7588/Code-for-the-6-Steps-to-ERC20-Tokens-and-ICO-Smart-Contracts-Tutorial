@@ -17,9 +17,7 @@ This code does not allow for discounts or bonuses, but any half competent develo
 
 Understanding of Solidity or proficient with a language like JavaScript, Swift, Java etc. Or just follow along with my tutoral at:
 
-[6 Steps to ERC20 Tokens and ICO Smart Contracts Tutorial Code](Example.com)
-
-#### Note: The above link does not work yet as the tutorial has not been posted yet. I will update it once it is finished. Im adding the placeholder here for easier updating latter on once the tutorial is finished. 
+[6 Steps to ERC20 Tokens and ICO Smart Contracts Tutorial Code](https://medium.com/@halls7588/6-steps-to-erc20-tokens-and-ico-smart-contracts-e90523afafa1)
 
 ## Deployment
 
